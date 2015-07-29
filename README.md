@@ -10,24 +10,24 @@ Fiches techniques :
 https://www.dropbox.com/sh/b9jqwph96eguspu/AACgxyVvF-5tsUqAk2Ooze-Ja?dl=0
 
 ### Activité
-Team #1 : 
-Renaud 
-Matthias
-Valentin
-Kévin
-Matthieu
-Gilles
-Marc
-François S.
+**Team #1** : 
+- Renaud 
+- Matthias
+- Valentin
+- Kévin
+- Matthieu
+- Gilles
+- Marc
+- François S.
 
-Team #2 :
-Xavier
-Martine
-Tomas
-Thomas
-Michael
-Aurélien
-Pomeline
+**Team #2** :
+- Xavier
+- Martine
+- Tomas
+- Thomas
+- Michael
+- Aurélien
+- Pomeline
 
 ### Liens divers
 [Appel à développeurs](http://checkthis.com/j0nc) 
