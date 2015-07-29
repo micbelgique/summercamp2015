@@ -5,8 +5,11 @@ Deuxième édition du MIC Summer Camp, à [Barvaux-sur-Ourthe](https://www.googl
 
 ### Projets
 Présentations vidéos par l'équipe du MIC :
+
 https://www.youtube.com/playlist?list=PLGxtOkgUc8Ffg3UQ1cOwY_hyEMdgH1B4o
+
 Fiches techniques :
+
 https://www.dropbox.com/sh/b9jqwph96eguspu/AACgxyVvF-5tsUqAk2Ooze-Ja?dl=0
 
 ### Activité
