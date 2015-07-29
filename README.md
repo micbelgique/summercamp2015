@@ -29,8 +29,9 @@ https://www.dropbox.com/sh/b9jqwph96eguspu/AACgxyVvF-5tsUqAk2Ooze-Ja?dl=0
 - Tomas
 - Thomas
 - Michael
-- Aurélien
+- Aurels
 - Pomeline
+- Didier
 
 ### Liens divers
 [Appel à développeurs](http://checkthis.com/j0nc) 
