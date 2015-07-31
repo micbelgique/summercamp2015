@@ -12,10 +12,21 @@ Fiches techniques :
 
 https://www.dropbox.com/sh/b9jqwph96eguspu/AACgxyVvF-5tsUqAk2Ooze-Ja?dl=0
 
+## Choix des équipes
+- **Kévin R.** : GPS Tracker
+- **François S.** : OpenData *(si y'a moyen de faire quelque chose)*
+- **Mathis A.** : WikiTeach
+- **Kenny V.** : NurseReport
+- **Adrien C.** : WaterStock
+- **Matthieu V.** : Carte Interactive
+- **Yves C.** : NurseReport
+- **Benoit D.** : GPS Tracker
+- **Mathias B.** : ExpoRater / WaterStock
+
 ### Activité
 **Team #1** : 
 - Renaud 
-- Matthias
+- Mathias
 - Valentin
 - Kévin
 - Matthieu
