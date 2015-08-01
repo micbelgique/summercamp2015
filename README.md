@@ -23,49 +23,32 @@ https://www.dropbox.com/sh/b9jqwph96eguspu/AACgxyVvF-5tsUqAk2Ooze-Ja?dl=0
 - **Benoit D.** : GPS Tracker
 - **Mathias B.** : ExpoRater / WaterStock
 
+
+
 ### Activité
-**Team #1** : 
-- Renaud 
-- Mathias
-- Valentin
-- Kévin
-- Matthieu
-- Gilles
-- Marc
-- François S.
 
-**Team #2** :
-- Xavier
-- Martine
-- Tomas
-- Thomas
-- Michael
-- Aurels
-- Pomeline
-- Didier
+| Team #1     | Team #2       | Team #3        | Team #4         |
+| ------------| ------------- | -------------- |-----------------|
+| Renaud      | Xavier        | Mathis         | Adrien          |
+| Mathias     | Martine       | Oleg           | Denis V.        |
+| Valentin    | Tomas         | Denis O.       | Stéphane        |
+| Kévin       | Thomas        | Alex           | Michaël F.      |
+| Matthieu    | Michael       | Mathieu        | Emmanuel        |                            
+| Gilles      | Aurels        | Jean-Philipe   | Louis           |                           
+| Marc        | Pomeline      |                | Yves            |    
+| François S. | Didier        |                |                 |
 
-**Team #3** : 
-- Mathis
-- Oleg
-- Denis O.
-- Alex
-- Mathieu
-- Jean PHilipe
+| Team #5     | Team #6       | Team #7        | Team #8         |
+| ------------| ------------- | -------------- |-----------------|
+| Fred        |               |                |                 |
+| Thomas F.   |               |                |                 |
+| Simon       |               |                |                 |
+|             |               |                |                 |
+|             |               |                |                 |                            
+|             |               |                |                 |                           
+|             |               |                |                 |    
+|             |               |                |                 |
 
-**Team 4** :
-- Adrien
-- Denis V.
-- Stéphane
-- Michaël F.
-- Emmanuel
-- Louis
-- Yves
-
-**Team Orphelins** : 
-- Fred
-- Thomas F.
-- Simon
-- 
 
 ### Liens divers
 [Appel à développeurs](http://checkthis.com/j0nc) 
