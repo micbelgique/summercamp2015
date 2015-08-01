@@ -44,6 +44,15 @@ https://www.dropbox.com/sh/b9jqwph96eguspu/AACgxyVvF-5tsUqAk2Ooze-Ja?dl=0
 - Pomeline
 - Didier
 
+**Team #3** : 
+- Mathis
+- Oleg
+- Denis
+- Alex
+- Mathieu
+- Jean PHilipe
+
+
 ### Liens divers
 [Appel à développeurs](http://checkthis.com/j0nc) 
 [Appel à projets](http://www.softlab.be/summercamp/appelprojets)
