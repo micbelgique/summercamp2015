@@ -51,7 +51,6 @@ https://www.dropbox.com/sh/b9jqwph96eguspu/AACgxyVvF-5tsUqAk2Ooze-Ja?dl=0
 - Alex
 - Mathieu
 - Jean PHilipe
-- 
 
 **Team 4** :
 - Adrien
