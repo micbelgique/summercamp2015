@@ -27,27 +27,27 @@ https://www.dropbox.com/sh/b9jqwph96eguspu/AACgxyVvF-5tsUqAk2Ooze-Ja?dl=0
 
 ### Activité
 
-| Team #1     | Team #2       | Team #3        | Team #4         |
-| ------------| ------------- | -------------- |-----------------|
-| Renaud      | Xavier        | Mathis         | Adrien          |
-| Mathias     | Martine       | Oleg           | Denis V.        |
-| Valentin    | Tomas         | Denis O.       | Stéphane        |
-| Kévin       | Thomas        | Alex           | Michaël F.      |
-| Matthieu    | Michael       | Mathieu        | Emmanuel        |                            
-| Gilles      | Aurels        | Jean-Philipe   | Louis           |                           
-| Marc        | Pomeline      |                | Yves            |    
-| François S. | Didier        |                |                 |
+| Team #1     | Team #2       | Team #3        |
+| ------------| ------------- | -------------- |
+| Renaud      | Xavier        | Mathis         |
+| Mathias     | Martine       | Oleg           |
+| Valentin    | Tomas         | Denis O.       |
+| Kévin       | Thomas        | Alex           |
+| Matthieu    | Michael       | Mathieu        |                            
+| Gilles      | Aurels        | Jean-Philipe   |                           
+| Marc        | Pomeline      |                |    
+| François S. | Didier        |                |
 
-| Team #5     | Team #6       | Team #7        | Team #8         |
-| ------------| ------------- | -------------- |-----------------|
-| Fred        |               |                |                 |
-| Thomas F.   |               |                |                 |
-| Simon       |               |                |                 |
-|             |               |                |                 |
-|             |               |                |                 |                            
-|             |               |                |                 |                           
-|             |               |                |                 |    
-|             |               |                |                 |
+| Team #4 (orphelins)    | Team #5       | Team #6        | 
+| ------------| ------------- | -------------- |
+| Fred        | Adrien        |                |            
+| Thomas F.   | Denis V.      |                |            
+| Simon       | Stéphane      |                |            
+|             | Michaël F.    |                |            
+|             | Emmanuel      |                |                       
+|             | Louis         |                |                      
+|             | Yves          |                |            
+|             |               |                |            
 
 
 ### Liens divers
