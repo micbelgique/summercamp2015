@@ -47,11 +47,26 @@ https://www.dropbox.com/sh/b9jqwph96eguspu/AACgxyVvF-5tsUqAk2Ooze-Ja?dl=0
 **Team #3** : 
 - Mathis
 - Oleg
-- Denis
+- Denis O.
 - Alex
 - Mathieu
 - Jean PHilipe
+- 
 
+**Team 4** :
+- Adrien
+- Denis V.
+- Stéphane
+- Michaël F.
+- Emmanuel
+- Louis
+- Yves
+
+**Team Orphelins** : 
+- Fred
+- Thomas F.
+- Simon
+- 
 
 ### Liens divers
 [Appel à développeurs](http://checkthis.com/j0nc) 
