@@ -13,42 +13,15 @@ Fiches techniques :
 https://www.dropbox.com/sh/b9jqwph96eguspu/AACgxyVvF-5tsUqAk2Ooze-Ja?dl=0
 
 ## Choix des équipes
-- **Kévin R.** : GPS Tracker
-- **François S.** : OpenData *(si y'a moyen de faire quelque chose)*
+- **Kévin R.** : GPS Tracker *(Hike Track)*
+- **François S.** : OpenData *(Mordatality)*
 - **Mathis A.** : WikiTeach
 - **Kenny V.** : NurseReport
 - **Adrien C.** : WaterStock
 - **Matthieu V.** : Carte Interactive
 - **Yves C.** : NurseReport
 - **Benoit D.** : GPS Tracker
-- **Mathias B.** : ExpoRater / WaterStock
-
-
-
-### Activité
-
-| Team #1     | Team #2       | Team #3        |
-| ------------| ------------- | -------------- |
-| Renaud      | Xavier        | Mathis         |
-| Mathias     | Martine       | Oleg           |
-| Valentin    | Tomas         | Denis O.       |
-| Kévin       | Thomas        | Alex           |
-| Matthieu    | Michael       | Mathieu        |                            
-| Gilles      | Aurels        | Jean-Philipe   |                           
-| Marc        | Pomeline      |                |    
-| François S. | Didier        |                |
-
-| Team #4 (orphelins)    | Team #5       | Team #6        | 
-| ------------| ------------- | -------------- |
-| Fred        | Adrien        |                |            
-| Thomas F.   | Denis V.      |                |            
-| Simon       | Stéphane      |                |            
-|             | Michaël F.    |                |            
-|             | Emmanuel      |                |                       
-|             | Louis         |                |                      
-|             | Yves          |                |            
-|             |               |                |            
-
+- **Mathias B.** : WaterStock *(BeerStock)*
 
 ### Liens divers
 [Appel à développeurs](http://checkthis.com/j0nc) 
