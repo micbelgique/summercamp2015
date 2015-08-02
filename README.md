@@ -22,6 +22,7 @@ https://www.dropbox.com/sh/b9jqwph96eguspu/AACgxyVvF-5tsUqAk2Ooze-Ja?dl=0
 - **Yves C.** : NurseReport
 - **Benoit D.** : GPS Tracker
 - **Mathias B.** : WaterStock *(BeerStock)*
+- **J-B C.** : Portail captif
 
 ### Liens divers
 [Appel à développeurs](http://checkthis.com/j0nc) 
